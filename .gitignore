@@ -1,0 +1,12 @@
+.venv/
+baselineEvaluation/
+dataPreparation/
+data/
+final_model/
+models/
+Alexander/
+Savitha/
+
+sroie_crops/
+SROIE2019/
+stage1_sroie/
