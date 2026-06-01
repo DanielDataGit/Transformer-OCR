@@ -1,6 +1,5 @@
 .venv/
-baselineEvaluation/
-dataPreparation/
+
 data/
 final_model/
 models/
